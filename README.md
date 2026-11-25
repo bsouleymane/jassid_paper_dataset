@@ -1,2 +1,3 @@
 # jassid_paper_dataset
 Dataset for jassid severity discrimination
+Due to institutional data-sharing restrictions from the Cotton Research Institute (Institut de Recherche sur le Coton, IRC), the original ground-truth field severity labels collected during the 2023 campaign cannot be redistributed publicly. To ensure code reproducibility and allow users to run the pipeline end-to-end, the severity_level column in this repository has been synthetically generated, while the open-access satellite and meteorological features are provided as used in the study. All results reported in the manuscript were computed on the original IRC field observations.
